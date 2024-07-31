@@ -4,7 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-abraao-balbino-738a48271/)
 
 ![Abraão's GitHub stats](https://github-readme-stats.vercel.app/api?username=abraao-2022&show_icons=true&theme=dracula)
-
 ![Abraão's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abraao-2022&theme=dracula)
 
 ## Tecnologias que eu uso no meu dia
